@@ -2,7 +2,7 @@
 
 ![Read the Docs](https://img.shields.io/readthedocs/postgraduate-recommendation?style=flat-square)
 
-地址：https://postgraduate-recommendation.readthedocs.io/zh_CN/latest/
+地址：[https://cse-baoyan.readthedocs.io/zh/latest/](https://cse-baoyan.readthedocs.io/zh/latest/)
 
 由中南软工学长学姐编写的保研攻略，希望大家都能更快更高效更少踩坑地成功保研，拥有光明的未来。
 目前正在收集2020级保研经验贴，欢迎大家 Star & Fork 帮助学弟学妹们！
